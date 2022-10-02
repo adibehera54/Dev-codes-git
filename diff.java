@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Online Python - IDE, Editor, Compiler, Interpreter
@@ -10,3 +11,6 @@ b = int(input('Enter 2nd number: '))
 
 print(f'Sum of {a} and {b} is {sum(a, b)}')
 
+=======
+
+>>>>>>> refs/remotes/origin/main
